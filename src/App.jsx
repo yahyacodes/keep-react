@@ -15,6 +15,8 @@ function App() {
       <TextInput id="input" placeholder="Default Input Field" color="gray" />
       <TimelineComponent />
       <CardComponent />
+
+      <p className="text-xs text-zinc-400">Testing</p>
     </>
   );
 }
